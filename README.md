@@ -1,5 +1,3 @@
-Relatório do Projeto - GymMaster
-📌 Título do Projeto:
 GymMaster – Sistema de Registro e Acompanhamento de Treinos
 
 🚧 Status do Projeto:
